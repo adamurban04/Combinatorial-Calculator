@@ -6,7 +6,7 @@ This project is developed in Racket and aims to provide a versatile tool for per
 Check out:
 - The racket code
 - The pdf file explaining the use of ChatGPT in the project
-- The slides for my videopresentation (the link to the video is in the racket code)
+- The slides for my video-presentation (the link to the video is in the racket code)
 
 
 Contributors:
