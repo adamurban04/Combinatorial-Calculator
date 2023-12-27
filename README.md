@@ -1,4 +1,4 @@
-#Combinatorial Calculator in Racket
+# Combinatorial Calculator in Racket
 
 Welcome to the Combinatorial Calculator repository!  
 This project is developed in Racket and aims to provide a versatile tool for performing combinatorial calculations.
